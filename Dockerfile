@@ -1,2 +1,2 @@
-FROM mariadb:latest
+FROM cfroese/pika-mariadb
 
